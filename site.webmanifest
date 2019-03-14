@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "nKiosk",
+    "short_name": "nKiosk",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
