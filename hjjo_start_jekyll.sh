@@ -4,6 +4,7 @@
 ## . jekyll
 ##   https://jekyllrb.com/docs/
 ##   https://jekyllrb-ko.github.io/docs/configuration/
+##   https://jekyllrb.com/docs/installation/ubuntu/ -> install with ubuntu
 ## 
 ## . theme
 ##   http://themes.jekyllrc.org/
