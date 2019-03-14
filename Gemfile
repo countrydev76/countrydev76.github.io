@@ -1,7 +1,11 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
-gem 'jekyll-admin', group: :jekyll_plugins  # hjjo: add jekyll-admin
+#gem 'jekyll', '3.8.5'
+
+group :jekyll_plugins do
+  gem 'github-pages'
+  gem 'jekyll-admin' # hjjo: add jekyll-admin
+end
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?

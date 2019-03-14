@@ -20,13 +20,13 @@ header:
       en-US   : *EN
       ko      : &KO       문서
       ko-KR   : *KO
-    url: /docs.html
+    url: /docs/landing.html
   - titles:
       en      : &EN       Samples
       en-US   : *EN
       ko      : &KO       샘플
       ko-KR   : *KO
-    url: /samples.html
+    url: /docs/samples.html
   - titles:
       en      : &EN       Archive
       en-US   : *EN
@@ -50,4 +50,5 @@ header:
       en-US   : *EN
       ko      : &KO       회원가입
       ko-KR   : *KO
-    url: /signup.html
+    url: /
+
